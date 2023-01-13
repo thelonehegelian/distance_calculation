@@ -1,4 +1,4 @@
-# Calculates distance between two points given the longitude and latitude
+### Calculates distance between two points given the longitude and latitude
 
 TODO: 
 ---
